@@ -1,0 +1,3 @@
+admin,admin123,Administrador,admin@tpv.com,ADMIN
+cajero1,cajero123,Juan Pérez,juan@tpv.com,CAJERO
+cajero2,cajero123,María García,maria@tpv.com,CAJERO
